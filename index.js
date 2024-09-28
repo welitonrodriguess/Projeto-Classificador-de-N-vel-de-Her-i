@@ -22,3 +22,5 @@ if (xpHeroi < 1000) {
 } else {
   nivelHeroi = "Desconhecido";
 }
+console.log(`O Herói de nome ${nomeHeroi} está no nível de ${nivelHeroi}`);
+alert(`O Herói de nome ${nomeHeroi} está no nível de ${nivelHeroi}`);
